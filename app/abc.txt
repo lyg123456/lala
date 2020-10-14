@@ -1,2 +1,6 @@
 12345 
 789
+smartgit add
+222
+
+smart git add 1234
